@@ -108,8 +108,6 @@ You can find release notes for each version [here](https://github.com/ASP-NET-Co
 
 Add your site here, just raise an issue.
 
-- [adddemo.com](http://www.adddemo.com/postakodu/) (MVC 5) by [ademsenel](https://github.com/ademsenel).
-
 ## Contributions and Thanks
 
 - [sayedihashimi](https://github.com/sayedihashimi) - Fixed dotnet new command in ReadMe.
